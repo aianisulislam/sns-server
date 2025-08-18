@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 47.5 47.5" viewBox="0 0 47.5 47.5" id="crown">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 38h38V0H0v38Z"></path>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="matrix(1.25 0 0 -1.25 0 47.5)">
+    <path d="M0 0c-.517-.781-1.353-.781-1.869 0l-4.678 5.071c-.516.782-.516 2.048 0 2.828l4.678 9.072c.516.78 1.352.78 1.869 0l4.678-9.072c.516-.78.516-2.046 0-2.828L0 0Z" style="fill:#f4900c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.935 11.515)"></path>
+    <path d="M0 0c-.517-.781-1.353-.781-1.869 0l-4.678 5.071c-.516.782-.516 2.047 0 2.828l6.678 9.072c.516.78 1.352.78 1.869 0l2.678-9.072c.516-.781.516-2.046 0-2.828L0 0Z" style="fill:#f4900c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(29.435 9.515)"></path>
+    <path d="M0 0c-.517-.781-1.354-.781-1.871 0l-4.677 5.071c-.516.782-.516 2.047 0 2.828l2.677 9.072c.517.78 1.354.78 1.871 0l6.678-9.072c.516-.781.516-2.046 0-2.828L0 0Z" style="fill:#f4900c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(10.435 9.515)"></path>
+    <path d="M0 0a68.1 68.1 0 0 1-4-4.369l-4.565 8.854c-.517.781-1.353.781-1.87 0L-15-4.368l-4.565 8.853c-.517.781-1.354.781-1.871 0L-26-4.368A67.97 67.97 0 0 1-30 0c-1 1-2.485.94-2-1 1-4 1-7 1-12v-2a4 4 0 0 1 4-4h24a4 4 0 0 1 4 4v2C1-8 1-5 2-1 2.484.94 1 1 0 0" style="fill:#ffcc4d;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(34 26)"></path>
+    <path d="M0 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0" style="fill:#5c913b;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(22 15)"></path>
+    <path d="M0 0a2 2 0 1 0-4.001.001A2 2 0 0 0 0 0" style="fill:#5c913b;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(29 15)"></path>
+    <path d="M0 0a2 2 0 1 0-4.001.001A2 2 0 0 0 0 0" style="fill:#5c913b;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(36 15)"></path>
+    <path d="M0 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0" style="fill:#5c913b;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(13 15)"></path>
+    <path d="M0 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0" style="fill:#5c913b;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(6 15)"></path>
+    <path d="M0 0a4 4 0 0 0-4-4h-24a4 4 0 0 0-4 4H0Z" style="fill:#ffac33;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(35 11)"></path>
+  </g>
+</svg>
