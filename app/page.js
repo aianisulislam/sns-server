@@ -366,7 +366,7 @@ export default function App() {
     if (card.suit.name === "Crown") return true; // Crown can always be played
     if (gameState.pit.length === 0) return true; // First card can always be played
     const firstCardSuit = gameState.pit[0].card.suit.name;
-    if (card.suit.name === firstCardSuit) return true; // Same suit
+    if (firstCardSuit == "Crown" || card.suit.name === firstCardSuit) return true; // Same suit or when crown is played first
     if (myState.hand.some(c => c.suit.name === firstCardSuit)) return false; // If you have the first suit, you must play it
     return true; //
   }
